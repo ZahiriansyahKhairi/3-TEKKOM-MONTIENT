@@ -1,0 +1,149 @@
+{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body{
+    height: 100;
+    background-image: url (Masukkan link);
+    background-color: #ffffff;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.container{
+    width: 100px;
+    height: 350px;
+    position: absolute;
+    left: 25%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    padding: 20px 25px;
+    width: 300px;
+
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.container h1{
+    text-align: left;
+    color: #68C72D;
+    margin-bottom: -20px;
+    font-family: ope;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+.container h6{
+    text-align: left;
+    color: #68C72D;
+    margin-bottom: 30px;
+    font-family: Poppins ;
+    text-transform: uppercase;
+    border-bottom: 2px solid #ffffff;
+    font-weight: normal;
+}
+
+.container label{
+    text-align: left;
+    color: #68C72D;
+
+}
+
+.container form input{
+    width: calc(100% - 20px);
+    padding: 8px 10px;
+    margin-bottom: 15px;
+    border: none;
+    background-color: transparent;
+    border-bottom: 2px solid #68C72D;
+    color: #68C72D;
+    font-size: 20px;
+}
+
+.container form button{
+    width: 100%;
+    top: %;
+    padding: 10px;
+    border: none;
+    background-color:#68C72D;
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 18px;
+    color: #ffff;
+}
+
+.Gambar {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 60%;
+    top: 20%;
+}
+
+.Gambar form img {
+    width: 500px;
+    
+}
+
+.Forgot {
+    width: 100%;
+    padding: 0px;
+    border: none;
+    background-color: none;
+    font-family: Poppins;
+    font-weight: ;
+    font-size: 12px;
+    color: #68C72D;
+}
+
+
+.bg form img {
+    width: 500px;
+}
+
+.logo {
+    width: 50px;
+    position: absolute;
+    left: 0%;
+    top: 0%;
+}
+
+.logo form img {
+    width: 300px;
+}
+
+ul {
+    list-style-type: none;
+    margin-top: 20;
+    padding: 25px;
+    overflow: hidden;
+    background-color: ;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #68C72D;
+    text-align: center;
+    padding: 14px 25px;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+.ul {
+    float: right;
+    
+}
