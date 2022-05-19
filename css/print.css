@@ -1,0 +1,39 @@
+#headerr {
+	width: 100px;
+	height: 1000px;
+	padding: 45px;
+	background-image: url(../logo/header.png);
+	background-position: left;
+	background-size: 100%;
+}
+
+  #headerr {
+  width: auto;
+  float: none;
+  background-size: cover;
+}
+
+#headerr {
+  width: auto;
+  height: auto;
+  float: none;
+}
+
+#footerr {
+	width: auto;
+	height: 210px;
+	background-color: #4A4A4A;
+	border-top: 10px solid #C8C8C8;
+	padding: 30px;
+	padding-left: 25px;
+}
+
+#footerr {
+    width: auto;
+    float: none;
+}
+
+#footerr {
+    width: auto;
+    float: none;
+}
